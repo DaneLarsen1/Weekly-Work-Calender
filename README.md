@@ -4,6 +4,9 @@
 
 The Work Day Scheduler is a simple calendar application designed to help users efficiently schedule their workday. This web application allows users to input and save tasks for specific hours of the day, providing a visual representation of past, present, and future activities.
 
+## Deployed Site Demo 
+![alt text](Assets/images/Calender-SS.png)
+
 ## Features
 
 - **Intuitive Interface:** A user-friendly interface that allows users to easily input and save tasks for each hour of the workday.
@@ -36,3 +39,4 @@ No installation is required for this web application. Simply access the site usi
 ## Contact
 
 For any questions, praise, or support, please contact me at danelarsen12@gmail.com or 801-560-8796. 
+
